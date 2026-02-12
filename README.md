@@ -2,7 +2,7 @@
 
 The Xtract Universal Plugin for Dataiku enables you to load SAP data directly into your Dataiku workflow.
 
-# About Xtract Universal
+## About Xtract Universal
 
 Xtract universal is a standalone software that extracts and loads your SAP data into any target environment.
 It supports a wide range of SAP systems, SAP objects and target environments.
@@ -22,14 +22,14 @@ The following data extraction types are available for Dataiku:
 
 For more information on Xtract Universal, refer to the [Theobald Software website](https://theobald-software.com/en/xtract-universal/).
 
-# Prerequisites
+## Prerequisites
 
 The following prerequisites are required to use the Xtract Universal plugin in Dataiku:
 
 - Access to an Xtract Universal server instance
 - An existing data extraction that uses the [Dataiku destination](https://helpcenter.theobald-software.com/xtract-universal/documentation/destinations/dataiku/)
 
-# How it works
+## How it works
 
 Follow the workflow below to get started with your SAP data extractions:
 
@@ -40,4 +40,5 @@ Follow the workflow below to get started with your SAP data extractions:
 5. Start processing your SAP data in Dataiku.
 
 For more detailed information, refer to the [Xtract Universal HelpCenter](https://helpcenter.theobald-software.com/xtract-universal/documentation/destinations/dataiku/).
+
 
